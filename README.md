@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# NDK-Usage-and-Wifi-Scanner
-=======
-<<<<<<< HEAD
-# NDK-Usage-and-Wifi-Scanner
-=======
 # Matrix Calculator for Android
 
 A native Android application for performing advanced matrix operations, featuring an elegant Material Design 3 interface and optimized C++ performance via JNI.
