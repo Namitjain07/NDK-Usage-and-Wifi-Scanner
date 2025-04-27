@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Base theme colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+    
+    <!-- Background colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="itemBackground">#FFFFFF</color>
+    <color name="logBackground">#212121</color>
+    <color name="background_color">#F8F9FA</color>
+    <color name="spinner_popup_background">#FFFFFF</color>
+    
+    <!-- Text colors - Adding the missing color definitions -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    
+    <!-- Enhanced Log Colors -->
+    <color name="logCardBackground">#292D3E</color>
+    <color name="logCardStroke">#3F51B5</color>
+    <color name="logText">#E0E0E0</color>
+    <color name="logScrollbarThumb">#3F51B5</color>
+    <color name="logScrollbarTrack">#121212</color>
+    <color name="logInfoText">#8BE9FD</color>
+    <color name="logDebugText">#50FA7B</color>
+    <color name="logWarningText">#FFB86C</color>
+    <color name="logErrorText">#FF5555</color>
+    
+    <!-- Border colors -->
+    <color name="cardStroke">#E0E0E0</color>
+    <color name="itemStroke">#E0E0E0</color>
+    <color name="card_stroke_color">#E0E0E0</color>
+    
+    <!-- Stats card colors -->
+    <color name="min_card_background">#E8F5E9</color>
+    <color name="avg_card_background">#E1F5FE</color>
+    <color name="max_card_background">#FFF8E1</color>
+    <color name="std_card_background">#F3E5F5</color>
+    
+    <!-- Status colors -->
+    <color name="signalStrengthHigh">#4CAF50</color>
+    <color name="signalStrengthMedium">#FFC107</color>
+    <color name="signalStrengthLow">#FF5722</color>
+</resources>

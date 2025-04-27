@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WIFI-AP</string>
+    <string name="app_title">Wi-Fi Signal Strength Tracker</string>
+    <string name="select_network">Select Your Home Wi-Fi Network:</string>
+    <string name="scan_networks">Scan Wi-Fi Networks</string>
+    <string name="location_name">Location Name:</string>
+    <string name="location_hint">e.g., Living Room, Kitchen, etc.</string>
+    <string name="start_reading">Start</string>
+    <string name="stop_reading">Stop</string>
+    <string name="current_signal">Current Signal Strength:</string>
+    <string name="no_signal_info">No signal information available</string>
+    <string name="view_results">View Results</string>
+    <string name="save_results">Save Results</string>
+    <string name="results_saved">Results saved successfully</string>
+    <string name="readings_stats_placeholder">%1$d/%2$d readings collected</string>
+    <string name="permission_required">Location permission is required for Wi-Fi scanning</string>
+    <string name="location_required">Please enter a location name</string>
+    <string name="network_required">Please select a Wi-Fi network</string>
+    <string name="readings_complete">Readings complete for %s</string>
+    <string name="rssi_format">RSSI: %d dBm</string>
+    <string name="stat_format">Min: %d | Avg: %d | Max: %d | SD: %.2f</string>
+    <string name="available_networks">Available Wi-Fi Networks:</string>
+    <string name="scanning">Scanning for networks...</string>
+    <string name="no_network_selected">No Wi-Fi network selected for tracking</string>
+    <string name="selected_network">Network: %1$s</string>
+    <string name="app_logs">Application Logs:</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="logs_cleared">Logs cleared</string>
+    <string name="select_location">Select Location:</string>
+    <string name="custom_location">Custom Location</string>
+    
+    <!-- WiFi network item strings -->
+    <string name="signal_strength">Signal Strength</string>
+    
+    <!-- Predefined locations -->
+    <string-array name="predefined_locations">
+        <item>Living Room</item>
+        <item>Kitchen</item>
+        <item>Bedroom</item>
+        <item>Office</item>
+        <item>Bathroom</item>
+        <item>Custom Location</item>
+    </string-array>
+</resources>
