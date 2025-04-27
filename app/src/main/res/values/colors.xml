@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Material 3 Light Theme Colors -->
+    <color name="primary">#5D5FEF</color>
+    <color name="primaryDark">#4749CF</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E4E0FF</color>
+    <color name="onPrimaryContainer">#130069</color>
+    
+    <color name="secondary">#00A896</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#A7F5EE</color>
+    <color name="onSecondaryContainer">#004F45</color>
+    
+    <color name="tertiary">#F05454</color>
+    <color name="tertiaryContainer">#FFD9D9</color>
+    <color name="onTertiaryContainer">#680016</color>
+    
+    <color name="surface">#F8F9FF</color>
+    <color name="onSurface">#1B1B25</color>
+    <color name="surfaceVariant">#E5E5F9</color>
+    <color name="onSurfaceVariant">#46464F</color>
+    
+    <color name="background_color">#F2F2F7</color>
+    <color name="text_color">#1B1B25</color>
+    <color name="text_secondary_color">#616161</color>
+    
+    <color name="card_background">#FFFFFF</color>
+    <color name="edit_text_border">#DEDEDE</color>
+    
+    <!-- Matrix Cell Colors -->
+    <color name="input_matrix_background">#FFFFFF</color>
+    <color name="input_matrix_text">#1B1B25</color>
+    <color name="result_matrix_background">#E4E0FF</color>
+    <color name="result_matrix_text">#5D5FEF</color>
+    
+    <!-- Operation colors -->
+    <color name="add_color">#00A896</color>
+    <color name="subtract_color">#F05454</color>
+    <color name="multiply_color">#FFB340</color>
+    <color name="divide_color">#5D5FEF</color>
+</resources>

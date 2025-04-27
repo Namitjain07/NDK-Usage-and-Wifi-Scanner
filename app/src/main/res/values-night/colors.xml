@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Dark Theme Colors -->
+    <color name="primary">#BFC2FF</color>
+    <color name="primaryDark">#A6A9FF</color>
+    <color name="onPrimary">#282884</color>
+    <color name="primaryContainer">#4043B4</color>
+    <color name="onPrimaryContainer">#E1DFFF</color>
+    
+    <color name="secondary">#60D7C7</color>
+    <color name="onSecondary">#003731</color>
+    <color name="secondaryContainer">#00514A</color>
+    <color name="onSecondaryContainer">#75F6E5</color>
+    
+    <color name="tertiary">#FFB3AB</color>
+    <color name="tertiaryContainer">#93000F</color>
+    <color name="onTertiaryContainer">#FFDAD5</color>
+    
+    <color name="surface">#1A1A24</color>
+    <color name="onSurface">#E3E1E6</color>
+    <color name="surfaceVariant">#313042</color>
+    <color name="onSurfaceVariant">#C5C4D4</color>
+    
+    <color name="background_color">#121218</color>
+    <color name="text_color">#E3E1E6</color>
+    <color name="text_secondary_color">#AEAEB2</color>
+    
+    <color name="card_background">#1F1F2C</color>
+    <color name="edit_text_border">#454557</color>
+    
+    <!-- Matrix Cell Colors -->
+    <color name="input_matrix_background">#1F1F2C</color>
+    <color name="input_matrix_text">#E3E1E6</color>
+    <color name="result_matrix_background">#343469</color>
+    <color name="result_matrix_text">#BFC2FF</color>
+</resources>

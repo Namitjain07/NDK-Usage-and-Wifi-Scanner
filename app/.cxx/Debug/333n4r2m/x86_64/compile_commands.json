@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/jnami/AndroidStudioProjects/matrix/app/.cxx/Debug/333n4r2m/x86_64",
+  "command": "C:\\Users\\jnami\\Downloads\\SDK\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/jnami/Downloads/SDK/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmatrix_lib_EXPORTS -IC:/Users/jnami/AndroidStudioProjects/matrix/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\matrix-lib.dir\\MatrixOperations.cpp.o -c C:\\Users\\jnami\\AndroidStudioProjects\\matrix\\app\\src\\main\\cpp\\MatrixOperations.cpp",
+  "file": "C:\\Users\\jnami\\AndroidStudioProjects\\matrix\\app\\src\\main\\cpp\\MatrixOperations.cpp"
+},
+{
+  "directory": "C:/Users/jnami/AndroidStudioProjects/matrix/app/.cxx/Debug/333n4r2m/x86_64",
+  "command": "C:\\Users\\jnami\\Downloads\\SDK\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/jnami/Downloads/SDK/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmatrix_lib_EXPORTS -IC:/Users/jnami/AndroidStudioProjects/matrix/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\matrix-lib.dir\\matrix_jni.cpp.o -c C:\\Users\\jnami\\AndroidStudioProjects\\matrix\\app\\src\\main\\cpp\\matrix_jni.cpp",
+  "file": "C:\\Users\\jnami\\AndroidStudioProjects\\matrix\\app\\src\\main\\cpp\\matrix_jni.cpp"
+}
+]

@@ -1,0 +1,7 @@
+# ninja log v5
+10	899	7665823166530700	CMakeFiles/matrix-lib.dir/matrix_jni.cpp.o	a16a2e655c659f23
+5	1238	7665823169799341	CMakeFiles/matrix-lib.dir/MatrixOperations.cpp.o	ea1c3296d6a8773c
+1239	1766	7665823174073512	C:/Users/jnami/AndroidStudioProjects/matrix/app/build/intermediates/cxx/Debug/5532b314/obj/arm64-v8a/libmatrix-lib.so	cb9fca4f70ae0458
+10	963	7665826049583790	CMakeFiles/matrix-lib.dir/matrix_jni.cpp.o	a16a2e655c659f23
+6	1101	7665826050938682	CMakeFiles/matrix-lib.dir/MatrixOperations.cpp.o	ea1c3296d6a8773c
+1101	1195	7665826051888593	C:/Users/jnami/AndroidStudioProjects/matrix/app/build/intermediates/cxx/Debug/5532b314/obj/arm64-v8a/libmatrix-lib.so	cb9fca4f70ae0458

@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using Material Design 3 -->
+    <style name="Theme.Matrix" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        
+        <!-- Tertiary colors -->
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainer</item>
+        
+        <!-- Status bar and surface colors -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariant</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorOnBackground">@color/text_color</item>
+        
+        <!-- Component styles -->
+        <item name="materialButtonStyle">@style/Widget.Matrix.Button</item>
+        <item name="textInputStyle">@style/Widget.Matrix.TextInputLayout</item>
+        <item name="radioButtonStyle">@style/Widget.Matrix.RadioButton</item>
+        <item name="cardViewStyle">@style/Widget.Matrix.CardView</item>
+    </style>
+
+    <!-- Custom button style -->
+    <style name="Widget.Matrix.Button" parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/onPrimary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="elevation">2dp</item>
+    </style>
+    
+    <!-- Radio button style -->
+    <style name="Widget.Matrix.RadioButton" parent="Widget.Material3.CompoundButton.RadioButton">
+        <item name="android:textSize">14sp</item>
+        <item name="android:buttonTint">@color/primary</item>
+    </style>
+    
+    <!-- Card style -->
+    <style name="Widget.Matrix.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+    
+    <!-- TextInputLayout style -->
+    <style name="Widget.Matrix.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/edit_text_border</item>
+        <item name="boxBackgroundColor">@color/input_matrix_background</item>
+        <item name="hintTextColor">@color/primary</item>
+    </style>
+    
+    <!-- EditText styles for dimension inputs -->
+    <style name="Widget.Matrix.DimensionEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edit_text_rounded</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textColorHint">@color/text_secondary_color</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+</resources>

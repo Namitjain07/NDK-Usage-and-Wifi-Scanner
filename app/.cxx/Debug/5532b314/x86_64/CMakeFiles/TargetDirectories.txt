@@ -1,0 +1,3 @@
+C:/Users/jnami/AndroidStudioProjects/matrix/app/.cxx/Debug/5532b314/x86_64/CMakeFiles/matrix-lib.dir
+C:/Users/jnami/AndroidStudioProjects/matrix/app/.cxx/Debug/5532b314/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/jnami/AndroidStudioProjects/matrix/app/.cxx/Debug/5532b314/x86_64/CMakeFiles/rebuild_cache.dir
